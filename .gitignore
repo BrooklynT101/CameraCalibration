@@ -1,0 +1,6 @@
+Lab notes.docx
+Calibration/.vs/*
+Calibration/left_camera_calibration.yml
+Calibration/right_camera_calibration.yml
+Calibration/stereo_calibration.yml
+Calibration/out/*
